@@ -1,10 +1,10 @@
 # webApiNetCore3
 
-- mkdir webApiNetCore3
-- dotnet new webapi -o WebApi --no-https true --auth None
-- dotnet new xunit -o UnitTests
-- dotnet new xunit -o IntegrationTests
-
+``` mkdir webApiNetCore3
+ dotnet new webapi -o WebApi --no-https true --auth None
+ dotnet new xunit -o UnitTests
+ dotnet new xunit -o IntegrationTests
+```
 
 
 - cd ./UnitTests
